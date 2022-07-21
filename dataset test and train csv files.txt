@@ -1,0 +1,3 @@
+HUman Activity classification dataset test and train csv files
+
+https://drive.google.com/drive/folders/13aGODZHnMPk3OoNi68U7F7eWy_pglfcw?usp=sharing
